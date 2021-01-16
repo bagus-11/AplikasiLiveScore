@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertandingan Bola</string>
+    <string name="tab_text_1">JADWAL PERTANDINGAN</string>
+    <string name="tab_text_2">FAVORIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
